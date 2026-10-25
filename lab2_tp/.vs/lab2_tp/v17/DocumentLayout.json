@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\mobilehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\mobilehome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\iattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\interfaces\\iattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6263F0A4-CCCD-47A7-A248-7DD75D9AE03F}|lab2_tp\\lab2_tp.csproj|solutionrelative:lab2_tp\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MobileHome.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\MobileHome.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\MobileHome.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\MobileHome.cs",
+              "RelativeToolTip": "lab2_tp\\MobileHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:11:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fort.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Fort.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\Fort.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Fort.cs",
+              "RelativeToolTip": "lab2_tp\\Fort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:07:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Building.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\Building.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Building.cs",
+              "RelativeToolTip": "lab2_tp\\Building.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T16:01:27.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMoveable.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\IMoveable.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\interfaces\\IMoveable.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\IMoveable.cs",
+              "RelativeToolTip": "lab2_tp\\interfaces\\IMoveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:47:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAttacker.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\IAttacker.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\interfaces\\IAttacker.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\interfaces\\IAttacker.cs",
+              "RelativeToolTip": "lab2_tp\\interfaces\\IAttacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:37:45.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Archer.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\Archer.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Archer.cs",
+              "RelativeToolTip": "lab2_tp\\Archer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:35:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Unit.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\Unit.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Unit.cs",
+              "RelativeToolTip": "lab2_tp\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:23:31.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\GameObject.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\GameObject.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\GameObject.cs",
+              "RelativeToolTip": "lab2_tp\\GameObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T15:14:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_tp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u0438\u044F\\source\\repos\\lab2_tp\\lab2_tp\\Program.cs*",
+              "RelativeToolTip": "lab2_tp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:49:19.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
